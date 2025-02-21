@@ -2,6 +2,17 @@
 심심할때 만들어보는 토이프로젝트
 
 
+## pygame 활용 토이프로젝트 모음집
+
+- 10의 배수 찾기 (py96_pygame_findTen.py)
+
+  - 제작 기간 : 1일 , 네이버 치지직 방송에서 잠시 유행하던 마우스 드래그로 10 만들기 게임을 보고 만들어 보고싶어서 만듦
+
+
+https://github.com/user-attachments/assets/5090a229-8e0e-4df2-8ad0-9ca6bf11a049
+
+
+
 ## tkinter 활용 토이프로젝트 모음집
 
 
@@ -13,7 +24,7 @@ https://github.com/user-attachments/assets/d0117e0f-34ca-4816-a178-cc7ad7db17a0
 
 
 
-- 두더지 잡기 게임 (py99_tkinter_changeColor.py)
+- 두더지 잡기 게임 (py98_tkinter_whackAMole.py)
 
   - 제작 기간 : 2시간 , tkinter 심층 학습을 위해 제작
       
