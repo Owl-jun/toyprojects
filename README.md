@@ -15,6 +15,13 @@ https://github.com/user-attachments/assets/5090a229-8e0e-4df2-8ad0-9ca6bf11a049
 
 ## tkinter 활용 토이프로젝트 모음집
 
+- 학생정보 관리 DB연동 프로그램
+
+  - pymysql을 통해 db연동 학습
+    
+https://github.com/user-attachments/assets/431258f9-1c7e-493c-b77a-7e3ea8782b75
+
+
 - 숫자 퍼즐 (py97_tkinter_NumberPuzzle.py)
 
   - 제작 기간 : 5시간 , 숫자버튼의 이동 로직 구현에 애를 먹고 시간이 많이 소요됨
