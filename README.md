@@ -18,6 +18,7 @@ https://github.com/user-attachments/assets/5090a229-8e0e-4df2-8ad0-9ca6bf11a049
 - 학생정보 관리 DB연동 프로그램
 
   - pymysql을 통해 db연동 학습
+  - DB CRUD 기능 + 검색 기능 구현
     
 https://github.com/user-attachments/assets/431258f9-1c7e-493c-b77a-7e3ea8782b75
 
