@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/5090a229-8e0e-4df2-8ad0-9ca6bf11a049
 
 ## tkinter 활용 토이프로젝트 모음집
 
-- 학생정보 관리 DB연동 프로그램
+- 학생정보 관리 DB연동 프로그램 [SOURCE](https://github.com/Owl-jun/iot-database-2025/blob/main/day09/students_regapp.py)
 
   - pymysql을 통해 db연동 학습
   - DB CRUD 기능 + 검색 기능 구현
