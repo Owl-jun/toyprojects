@@ -1,6 +1,10 @@
 ## toyprojects
 심심할때 만들어보는 토이프로젝트
 
+## VMWare 활용 리눅스 텔넷 서버 구현해보기
+- TelNet 서버 구현 [SOURCE](https://github.com/Owl-jun/ubuntu/tree/main/ToyProject/Telnet)
+
+<img src="tn0004.png" width=600>
 
 ## C# WinForm 활용 토이프로젝트
 - 리눅스 명령어 연습 앱 [SOURCE](https://github.com/Owl-jun/iot-winapp-2025/tree/main/toyproject/WinFormProject)
