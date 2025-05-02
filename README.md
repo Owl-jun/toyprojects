@@ -2,7 +2,7 @@
 심심할때 만들어보는 토이프로젝트
 
 ## VMWare 활용 리눅스 텔넷/SSH/XRDP 서버 구현해보기
-- TelNet 서버 구현 [SOURCE](https://github.com/Owl-jun/ubuntu/tree/main/ToyProject/Telnet%2C%20SSH%2C%20XRDP)
+- TelNet, SSH 서버 구현 해보기 [SOURCE](https://github.com/Owl-jun/ubuntu/tree/main/ToyProject/Telnet%2C%20SSH%2C%20XRDP)
 
 <img src="tn0004.png" width=600>
 
